@@ -43,6 +43,9 @@ EXTERNAL-API/VALEUS
 
 Response Body:
 
+
+```JSON
+
 {
     "response_code": 0,
     "results": [
@@ -60,6 +63,6 @@ Response Body:
         },
         
  
- 
+ ```
 
 
