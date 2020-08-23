@@ -29,7 +29,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 🤓 Fact: I'm learning Vue.js. This is a very basic web that I'm bulding utilising the knowledge I've gained. Next challenge is to integrate Typescript. 
 
-📝Quiz WebApp is displays a maximum of 20 general knowledge question and gives the user multiple choice.
+📝 Quiz WebApp is displays a maximum of 20 general knowledge question and gives the user multiple choice.
 
 🔨 It's been built using Vue.js, Bootstrap-vue and an external API. 
 
@@ -65,4 +65,9 @@ Response Body:
  
  ```
 
+- API values that currently are dynamic:
+
+  ⚡️ Difificulty: It's been set up that serves a random value from 1. Easy, 2. Medium  3. Hard.
+  
+  
 
