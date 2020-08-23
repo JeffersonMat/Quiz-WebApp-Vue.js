@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quiz
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Quiz-WebApp-Vue.js
+>>>>>>> 9bf65fe205d13679e1ddbc1d51d36468eca45080
