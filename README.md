@@ -39,7 +39,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Client-side details
 
 
-EXTERNAL-API/VALEUS
+GET/api/values
 
 Response Body:
 
@@ -61,6 +61,31 @@ Response Body:
                 "July 2, 1776"
             ]
         },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the defining characteristic of someone who is described as hirsute?",
+            "correct_answer": "Hairy",
+            "incorrect_answers": [
+                "Rude",
+                "Funny",
+                "Tall"
+            ]
+        },
+         {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Area 51 is located in which US state?",
+            "correct_answer": "Nevada",
+            "incorrect_answers": [
+                "Arizona",
+                "New Mexico",
+                "Utah"
+            ]
+        }
+        ]
         
  
  ```
