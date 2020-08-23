@@ -4,7 +4,17 @@
       <b-nav-item disabled>
         <b>Quiz App</b>
       </b-nav-item>
-      <b-nav-item disabled>Counter</b-nav-item>
+      <b-nav-item disabled>Counter:{{numberCorrect}}/{{numberTotal}}</b-nav-item>
     </b-nav>
   </div>
 </template>
+
+<script>
+export default {
+  
+  props: [
+  'numberCorrect',
+  'numberTotal'
+  ]
+}
+</script>
