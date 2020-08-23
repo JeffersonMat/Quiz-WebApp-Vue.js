@@ -92,7 +92,7 @@ Response Body:
 
 - API values that currently are dynamic:
 
-  ⚡️ Difificulty: It's been set up that serves a random value from 1. Easy, 2. Medium  3. Hard.
+  ⚡️ Difificulty: It's been set up that serves a random level (Easy, Medium or Hard)
   
   
 
