@@ -27,13 +27,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ------>
 # Quiz-WebApp-Vue.js
 
-🤓 Fact: I'm learning Vue.js. This is a very basic web that I'm bulding utilising the knowledge I've gained. Next challenge is to integrate Typescript. 
+🤓 Fact: I'm learning Vue.js. This is app will be growing as my knowledge in Vue grows as well. Next challenge is to integrate Typescript. 
 
-📝 Quiz WebApp is displays a maximum of 20 general knowledge question and gives the user multiple choice.
+📝 Quiz WebApp, it displays a maximum of 20 general knowledge questions and gives to the user multiple choice to choose from.
 
-🔨 It's been built using Vue.js, Bootstrap-vue and an external API. 
+🔨 It's being built using Vue.js, Bootstrap-vue and an external API. 
 
-🎙 The readme will be updating as the app grows and start implemeting new features. 
+🎙 The readme will be updated as the app grows and start to implemeting new features. 
 
 
 ## Client-side details
